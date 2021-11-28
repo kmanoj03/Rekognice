@@ -12,7 +12,6 @@ This is an attendance app! You need to be registered either as student or teache
 - For marking yourself present, you need to click Student > Attendance from the menu bar.
 - After which the UI will take you to a new screen where you need to enter your USN and proceed.      
 
-
 ## 🏠This is how the home page looks like.
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/91562205/143768064-e3fc0da0-a00a-4f55-a8ad-f9c7f5f9b6a8.png">
 
@@ -25,6 +24,12 @@ This is an attendance app! You need to be registered either as student or teache
 
 ## 👩‍🏫This is for the teachers to check the attendance.
 <img width="495" alt="image" src="https://user-images.githubusercontent.com/91562205/143768296-4a8912a6-0e14-4e6b-9e1c-ed921db12d8a.png">
+
+# 📂Significance of the Folders?
+- _face_images_ : This directory has the images of all the students who have registered themselves.
+- _inapp_images_ : This directory has the images usef to enhance the beauty of the UI.
+- _read_ : This directory has the code to print the details of various text/binary files used by the app.
+- _Excel_ : This directory has the different Excel spreadsheets sorted class wise along with a excel file of the failed attempts.
 
 # 🔭Scope
 The app can be used as an alternative to the traditional method of taking attendance in a classroom.
