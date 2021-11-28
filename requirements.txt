@@ -1,0 +1,6 @@
+pyttsx3
+speech_recognition
+face_recognition
+cv2
+numpy
+openpyxl
