@@ -31,14 +31,20 @@ This is an attendance app! You need to be registered either as student or teache
 - _read_ : This directory has the code to print the details of various text/binary files used by the app.
 - _Excel_ : This directory has the different Excel spreadsheets sorted class wise along with a excel file of the failed attempts.
 
+# 😛Bonus
+The app is kind enough to greet you where it can. Turn the volume up and get ready xD.
+
+# ？Requirements
+Please check this [requirements.txt](https://github.com/manoj-jojo/Rekognice/blob/main/requirements.txt) file. Apart from that download the community version of [Visual Studio Code](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17), since the log files of the same are required for the face recognition.
+
+# ‼️Note
+**Please modify the paths of various files according to your system**
+
 # 🔭Scope
 The app can be used as an alternative to the traditional method of taking attendance in a classroom.
 
 # 🔺Improvements
 This code (with more powerful recognition) can be integrated with a CCTV camera which is there in the campus (preferably in the entrance) so that attendance can be taken on a large set of students. The manual work of entering the USN by the students can also be bypassed by writing better code. 
-
-# ？Requirements
-Please check this [requirements.txt](https://github.com/manoj-jojo/Rekognice/blob/main/requirements.txt) file. Apart from that download the community version of [Visual Studio Code](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17), since the log files of the same are required for the face recognition.
 
 # ❌Limitation
 In case if the user is sitting in a place such that very less amount of light falls on his/her’s face, the recognition might not happen or might take time.
