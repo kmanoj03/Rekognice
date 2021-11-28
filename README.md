@@ -31,6 +31,9 @@ This is an attendance app! You need to be registered either as student or teache
 - _read_ : This directory has the code to print the details of various text/binary files used by the app.
 - _Excel_ : This directory has the different Excel spreadsheets sorted class wise along with a excel file of the failed attempts.
 
+# ‼️ Note
+The binary files (_classsec.dat, credentials.dat, student_details.dat_) should be created manually by you only **ONCE**.
+
 # 🔭Scope
 The app can be used as an alternative to the traditional method of taking attendance in a classroom.
 
