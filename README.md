@@ -33,7 +33,7 @@ The app can be used as an alternative to the traditional method of taking attend
 This code (with more powerful recognition) can be integrated with a CCTV camera which is there in the campus (preferably in the entrance) so that attendance can be taken on a large set of students. The manual work of entering the USN by the students can also be bypassed by writing better code. 
 
 # ？Requirements
-Please check the requirements.txt file. Apart from that download the community version of [Visual Studio Code](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17), since the log files of the same are required for the face recognition.
+Please check this [requirements.txt](https://github.com/manoj-jojo/Rekognice/blob/main/requirements.txt) file. Apart from that download the community version of [Visual Studio Code](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17), since the log files of the same are required for the face recognition.
 
 # ❌Limitation
 In case if the user is sitting in a place such that very less amount of light falls on his/her’s face, the recognition might not happen or might take time.
