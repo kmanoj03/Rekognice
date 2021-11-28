@@ -32,7 +32,7 @@ This is an attendance app! You need to be registered either as student or teache
 - _Excel_ : This directory has the different Excel spreadsheets sorted class wise along with a excel file of the failed attempts.
 
 # 😛Bonus
-The app is kind enough to greet you where it can. Turn the volume up and get ready xD.
+The app is kind enough to greet you where ever it can. Turn the volume up and get ready xD.
 
 # ？Requirements
 Please check this [requirements.txt](https://github.com/manoj-jojo/Rekognice/blob/main/requirements.txt) file. Apart from that download the community version of [Visual Studio Code](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17), since the log files of the same are required for the face recognition.
