@@ -15,7 +15,7 @@ This is an attendance app! You need to be registered either as student or teache
 ## 🏠This is how the home page looks like.
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/91562205/143768064-e3fc0da0-a00a-4f55-a8ad-f9c7f5f9b6a8.png">
 
-## 👽This is for the new users 
+## 👽This is for the new users.
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/91562205/143768202-0523b16b-3eeb-42c3-9f6b-e88a5f3886f0.png">
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/91562205/143768209-772a0142-3927-433b-a92b-2e6a4f61151c.png">
 
